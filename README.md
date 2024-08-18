@@ -66,6 +66,4 @@ To get started with the Solana Swap App, follow these steps:
 
 The swap feature works seamlessly on the localhost during development. However, I have experienced some difficulties after hosting the application. I am actively working to resolve these issues and appreciate your patience.
 
-## Donations
-If you find this project useful and would like to support its development, consider making a donation. Donations can be made directly to our Solana wallet address provided in the application. Your support is greatly appreciated!
 
